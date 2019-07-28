@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+{% extends "basic_app/base.html" %}
+{% block body_block %}
+   <h1>Index Page says "HI"</h1>
+   <h2>From base
+   {{text|cut:'hello'}}
+   {{number|add:"56"}}</h2>
+   {% endblock %}
