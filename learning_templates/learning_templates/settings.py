@@ -26,7 +26,7 @@ SECRET_KEY = 'emsif=dtn5$kmgngpln!-0f-&@b-_%e_ps9l%g4389qv!$mqvv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['aritra7.pythonanywhere.com']
 
 
 # Application definition
